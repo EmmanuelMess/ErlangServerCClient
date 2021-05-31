@@ -1,0 +1,3 @@
+[submodule "NativeConsoleChat"]
+	path = NativeConsoleChat
+	url = https://github.com/EmmanuelMess/NativeConsoleChat

@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main" type="ErlangConsoleRunConfigurationType" factoryName="Erlang Console" show_console_on_std_err="false" show_console_on_std_out="false">
+    <module name="ErlangServerCClient" />
+    <option name="allowRunningInParallel" value="false" />
+    <option name="consoleArgs" value="" />
+    <option name="projectPathOnTarget" />
+    <option name="selectedOptions">
+      <list />
+    </option>
+    <option name="workingDirPath" value="$PROJECT_DIR$" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+      <option name="RunConfigurationTask" enabled="true" run_configuration_name="Unnamed" run_configuration_type="ShConfigurationType" />
+    </method>
+  </configuration>
+</component>
